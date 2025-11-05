@@ -51,8 +51,8 @@ All raw evidence is **minimized and redacted** before any remote call.
 ## Install
 
 ```bash
-git clone https://github.com/<you>/<repo>.git
-cd <repo>
+git clone https://github.com/JuliocesarsantosTI/Dobby-VPS-Security-Agent.git
+cd Dobby-VPS-Security-Agent
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt  # or: pip install requests sentient-agent-framework
 ```
