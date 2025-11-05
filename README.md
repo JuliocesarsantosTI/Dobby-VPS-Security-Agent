@@ -1,6 +1,7 @@
 # VPS Security Agent
 
-A hardened Sentient-Agent-Framework agent that audits a Linux VPS, generates a redacted evidence bundle, asks Fireworks for a remediation plan, and saves **clean plain-text** and **JSON** reports. Includes a minimal SSE server, a one-shot CLI, and a built-in scheduler.
+I have developed a tool that, once installed on your Linux server, tells you about the server's security issues. These issues are then analyzed by the Dobby API, which also provides you with instructions on how to fix them and offers a complete analysis.
+You can view and save the results directly on your server. Additionally, you can configure it to send an alert to your Telegram account at any desired interval, and it will send the complete server analysis to you via Telegram.
 
 ---
 
