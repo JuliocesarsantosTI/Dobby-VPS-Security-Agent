@@ -1,0 +1,8 @@
+# Core runtime deps
+requests>=2.31.0
+sentient-agent-framework>=0.1.0
+
+Optional (development) tools
+black>=24.0.0
+ruff>=0.5.0
+pytest>=8.0.0
