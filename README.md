@@ -190,7 +190,7 @@ python vps_security_agent.py --every 1d --max-runs 14
 
 ```
 .
-├─ vps_security_agent.py            # the agent + CLI + scheduler + SSE server
+├─ vps_security_agent.py            # the agent + CLI + scheduler + SSE serverr
 ├─ security_reports/                # default output dir (created at runtime)
 └─ requirements.txt                 # optional (requests, sentient-agent-framework)
 ```
