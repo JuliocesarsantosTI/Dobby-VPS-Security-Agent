@@ -1,4 +1,4 @@
-# Core runtime deps
+# Core runtime dep
 requests>=2.31.0
 sentient-agent-framework>=0.1.0
 
